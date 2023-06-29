@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAKE,KACE,SAAO,CADT,OACE,WAAO,CADT,MACE,UAAO","file":"main.2f089a06.chunk.css","sourcesContent":["// styles go here\n\n$colors: (\"red\", \"green\", \"blue\");\n\n@each $color in $colors {\n  .#{$color} {\n    color: #{$color};\n  }\n}\n"]}
